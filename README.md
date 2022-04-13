@@ -1,5 +1,7 @@
 # PaleoHack: Putting EarthCube tools in the hands of paleogeoscientists
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khider/PaleoHack-paper/main)
+
 PaleoHack aims to train a new generation of paleogeoscientists to use emerging standards and tools developed through LinkedEarth, namely the Linked Paleo Data Format (LiPD[1]) and Pyleoclim [2]. The training has been accomplished through regular hackathons [3] open to researchers at various career stages. The activities were organized around eight self-guided Jupyter Notebook-based tutorials deployed on a JupyterHub walking the participants through an introduction to Pyleoclim and its object-oriented programming interface to using the package in advanced scientific paleoclimate workflows [4]. These notebooks were based on several studies published within the LinkedEarth group over the past several years.
 
 The notebooks are hosted on GitHub [5] and made available through myBinder for execution, allowing a growing number of scientists to access these training resources without participating in the hackathons. Notebooks 1 and 2 provide general Python and Pyleoclim tutorials while Notebooks 3 to 8 walk through workflows from published studies in the field using Pyleoclim. The notebooks provide example code that can be executed with the data uploaded to the GitHub repository and exercises to test understanding of specific functionalities. 
