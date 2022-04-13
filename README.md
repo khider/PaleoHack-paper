@@ -4,8 +4,9 @@ PaleoHack aims to train a new generation of paleogeoscientists to use emerging s
 
 The notebooks are hosted on GitHub [5] and made available through myBinder for execution, allowing a growing number of scientists to access these training resources without participating in the hackathons. Notebooks 1 and 2 provide general Python and Pyleoclim tutorials while Notebooks 3 to 8 walk through workflows from published studies in the field using Pyleoclim. The notebooks provide example code that can be executed with the data uploaded to the GitHub repository and exercises to test understanding of specific functionalities. 
 
-In this presentation, I will walk through a notebook from this repository which aims at understanding the relationship between forcing and data using various statistical tools. 
+In this presentation, I will walk through two notebooks from this repository. The first notebook aims at understanding the relationship between forcing and data using various statistical tools. The second notebook illustrates the danger of relying on correlation for paleoclimate interpretation. 
 
+## References
 [1] McKay, N. P., and J. Emile-Geay. Technical note: The linked paleo data framework : a common tongue for paleoclimatology.Climate of the Past12, 1093–1100 (2016).  
 [2] Khider, D., F. Zhu, J. E.-G. J. Hu, A. James, M. Kwan, P. Athreya, and D. Garijo.  Pyleoclim: A Pythonpackage for the analysis of paleoclimate data (v0.7.2) (2022).  URL https://doi.org/10.5281/zenodo.4002870.  
 [3] https://linkedearth.github.io/paleoHackathon/  
